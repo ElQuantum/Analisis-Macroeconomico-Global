@@ -36,7 +36,7 @@ El archivo de Power Bi incluye:
 2.  __Reproducir el análisis con Python__:
   * Usa el archivo de Python `analisis_global.ipynb` para procesar los datos paso a paso y generar visualizaciones clave. Es necesario descargar también `global_data.csv` para poder usar en el script de Python.
 3. __Leer el reporte__:
-  * Descargar el archivo `Análisis_Macroeconómico_Global.pdf`, que contiene una síntesis de todo el análisis realizado, juntando resultado de Power Bi y Python.
+  * Descargar el archivo `Análisis_Macroeconómico_Global.pdf`, que contiene una síntesis de todo el análisis realizado, juntando resultados de Power Bi y Python.
 
 
 ## __Contribuciones__
