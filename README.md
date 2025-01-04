@@ -27,7 +27,7 @@ El archivo de Power Bi incluye:
 * __Análisis del PIB e Inflación__: Crecimiento a lo largo del tiempo y comparación entre economías.
 * __Exportaciones e Importaciones__: Comparación de cómo influyen las exportaciones e importaciones de cada país al crecimiento del PIB.
 * __Emisiones de CO₂__: Distribución y tendencias globales.
-* __Indicadores clave__: PArticipación laboral, esperanza de vida, acceso a la educación, entre otros.
+* __Indicadores clave__: Participación laboral, esperanza de vida, acceso a la educación, entre otros.
 
 ## __Cómo usar este Proyecto__
 
